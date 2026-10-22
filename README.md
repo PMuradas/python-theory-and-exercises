@@ -30,17 +30,17 @@ Every lesson (after the first) opens with a short warm-up that revisits earlier 
 
 | # | Lesson | You will learn | Open |
 |---|---|---|---|
-| 01 | Hello, Python | `print`, comments, reading error messages | [Colab](https://colab.research.google.com/github/YOUR-USER/python-by-practice/blob/main/level-1-basics/01_hello_python.ipynb) |
-| 02 | Variables and data types | assignment, tracing code, `int` `float` `str` `bool`, conversions | [Colab](https://colab.research.google.com/github/YOUR-USER/python-by-practice/blob/main/level-1-basics/02_variables_and_types.ipynb) |
-| 03 | Numbers and operators | arithmetic, precedence, comparisons, `and` `or` `not` | [Colab](https://colab.research.google.com/github/YOUR-USER/python-by-practice/blob/main/level-1-basics/03_numbers_and_operators.ipynb) |
-| 04 | Strings | indexing, slicing, methods, f-strings | [Colab](https://colab.research.google.com/github/YOUR-USER/python-by-practice/blob/main/level-1-basics/04_strings.ipynb) |
-| 05 | Conditionals | `if` / `elif` / `else`, truthy and falsy values | [Colab](https://colab.research.google.com/github/YOUR-USER/python-by-practice/blob/main/level-1-basics/05_conditionals.ipynb) |
-| 06 | Loops | `for`, `while`, `range`, `break`, nested loops | [Colab](https://colab.research.google.com/github/YOUR-USER/python-by-practice/blob/main/level-1-basics/06_loops.ipynb) |
-| 07 | Functions | parameters, `return`, default values, scope | [Colab](https://colab.research.google.com/github/YOUR-USER/python-by-practice/blob/main/level-1-basics/07_functions.ipynb) |
-| 08 | Lists and tuples | list methods, copies vs references, unpacking | [Colab](https://colab.research.google.com/github/YOUR-USER/python-by-practice/blob/main/level-1-basics/08_lists_and_tuples.ipynb) |
-| 09 | Dictionaries and sets | lookups, counting, iterating, set operations | [Colab](https://colab.research.google.com/github/YOUR-USER/python-by-practice/blob/main/level-1-basics/09_dictionaries_and_sets.ipynb) |
-| 10 | Files and errors | `try` / `except`, reading and writing files | [Colab](https://colab.research.google.com/github/YOUR-USER/python-by-practice/blob/main/level-1-basics/10_files_and_errors.ipynb) |
-| 11 | Project: task manager | everything together, in a small command-line app | [Colab](https://colab.research.google.com/github/YOUR-USER/python-by-practice/blob/main/level-1-basics/11_project_task_manager.ipynb) |
+| 01 | Hello, Python | `print`, comments, reading error messages | [Colab](https://colab.research.google.com/github/PMuradas/python-theory-and-exercises/blob/main/level-1-basics/01_hello_python.ipynb) |
+| 02 | Variables and data types | assignment, tracing code, `int` `float` `str` `bool`, conversions | [Colab](https://colab.research.google.com/github/PMuradas/python-theory-and-exercises/blob/main/level-1-basics/02_variables_and_types.ipynb) |
+| 03 | Numbers and operators | arithmetic, precedence, comparisons, `and` `or` `not` | [Colab](https://colab.research.google.com/github/PMuradas/python-theory-and-exercises/blob/main/level-1-basics/03_numbers_and_operators.ipynb) |
+| 04 | Strings | indexing, slicing, methods, f-strings | [Colab](https://colab.research.google.com/github/PMuradas/python-theory-and-exercises/blob/main/level-1-basics/04_strings.ipynb) |
+| 05 | Conditionals | `if` / `elif` / `else`, truthy and falsy values | [Colab](https://colab.research.google.com/github/PMuradas/python-theory-and-exercises/blob/main/level-1-basics/05_conditionals.ipynb) |
+| 06 | Loops | `for`, `while`, `range`, `break`, nested loops | [Colab](https://colab.research.google.com/github/PMuradas/python-theory-and-exercises/blob/main/level-1-basics/06_loops.ipynb) |
+| 07 | Functions | parameters, `return`, default values, scope | [Colab](https://colab.research.google.com/github/PMuradas/python-theory-and-exercises/blob/main/level-1-basics/07_functions.ipynb) |
+| 08 | Lists and tuples | list methods, copies vs references, unpacking | [Colab](https://colab.research.google.com/github/PMuradas/python-theory-and-exercises/blob/main/level-1-basics/08_lists_and_tuples.ipynb) |
+| 09 | Dictionaries and sets | lookups, counting, iterating, set operations | [Colab](https://colab.research.google.com/github/PMuradas/python-theory-and-exercises/blob/main/level-1-basics/09_dictionaries_and_sets.ipynb) |
+| 10 | Files and errors | `try` / `except`, reading and writing files | [Colab](https://colab.research.google.com/github/PMuradas/python-theory-and-exercises/blob/main/level-1-basics/10_files_and_errors.ipynb) |
+| 11 | Project: task manager | everything together, in a small command-line app | [Colab](https://colab.research.google.com/github/PMuradas/python-theory-and-exercises/blob/main/level-1-basics/11_project_task_manager.ipynb) |
 
 About 70 exercises plus the project. No installation needed: open a lesson in Google Colab (or run the notebooks locally with Jupyter).
 
