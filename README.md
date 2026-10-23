@@ -4,6 +4,14 @@ Learn Python by writing it. Every lesson is a notebook with short exercises that
 
 > Level 1 (basics) is ready. Levels 2 and 3 are planned.
 
+## Not sure where to start?
+
+Take the **level test**: 30 questions, about 30 to 45 minutes, no installation needed. You get a score from 0 to 100, your level (Basic, Intermediate or Advanced) and a list of topics worth reviewing. A perfect score unlocks the Pro challenge.
+
+[![Open the level test in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PMuradas/python-theory-and-exercises/blob/main/python_proficiency_test/level_test.ipynb)
+
+More about how the score works in [python_proficiency_test/README.md](python_proficiency_test/README.md).
+
 ## How it works
 
 Most beginners learn more from solving small problems than from reading about syntax, so the lessons are built around exercises. Each exercise has the same shape:
