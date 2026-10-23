@@ -76,9 +76,3 @@ python placement/build_notebook.py
 ```
 
 The tests verify that every printed-output answer is what the code really prints, that every reference solution passes its cases, that starter code scores nothing, and that the scoring rules behave as described above.
-
-## Ideas for later
-
-- Calibrate difficulty with data: ask 30 to 50 people to take it, then look at the percentage of correct answers per question and adjust weights and borders.
-- Draw questions randomly from a larger bank, and eventually make the test adaptive (shorter, with the same precision) once there is enough data to calibrate it.
-- Add links to Level 2 and Level 3 lessons as they are written.
